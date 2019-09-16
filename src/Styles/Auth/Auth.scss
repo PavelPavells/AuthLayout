@@ -1,0 +1,117 @@
+.wrapper-auth {
+    //width: 100%;
+    font-family: Montserrat, sans-serif;
+}
+.wrapper-auth__header-logo {
+    position: absolute;
+    width: 243px;
+    height: 32px;
+    left: 100px;
+    top: 34px;
+}
+.wrapper-auth__header-line {
+    position: absolute;
+    width: 1743.01px;
+    left: 100.02px;
+    top: 83px;
+    border: 1px solid #EB5757;
+}
+.wrapper-auth__left {
+    position: absolute;
+    width: 564px;
+    height: 220px;
+    left: 351px;
+    top: 216px;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    line-height: 29px;
+    color: #545454;
+}
+.wrapper-auth__left-paragraph {
+    position: absolute;
+    width: 564px;
+    height: 45px;
+    left: 343px;
+    top: 125px;
+    font-size: 36px;
+    line-height: 42px;
+    //background: #191E22;
+}
+.wrapper-auth__separator {
+    position: absolute;
+    width: 755px;
+    height: 0px;
+    left: 568px;
+    top: 520px;
+    border: 1px solid #828282;
+    transform: rotate(90deg);
+}
+
+
+
+// MAIN CONTENT STYLE CSS
+
+
+
+
+.wrapper-auth__footer {
+    position: absolute;
+    width: 1920px;
+    height: 179px;
+    left: 0px;
+    bottom: -171px;
+    background: #28343F;
+}
+.wrapper-auth__footer-copy {
+    position: absolute;
+    width: 263.93px;
+    height: 18px;
+    left: 389.61px;
+    bottom: 111px;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color: #ffffff;
+}
+.wrapper-auth__footer-info {
+    position: absolute;
+    width: 268.76px;
+    height: 35px;
+    left: 389.61px;
+    bottom: 58px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8B9298;
+}
+.wrapper-auth__footer-phone-up {
+    position: absolute;
+    width: 201.09px;
+    height: 19px;
+    left: 854.62px;
+    bottom: 110px;
+    //font-family: Mon;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.wrapper-auth__footer-phone-down {
+    position: absolute;
+    width: 201.09px;
+    height: 20px;
+    left: 854.62px;
+    bottom: 73px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.wrapper-auth__footer-email {
+    position: absolute;
+    width: 139.21px;
+    height: 18px;
+    left: 1262.6px;
+    bottom: 106px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
