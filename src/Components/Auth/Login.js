@@ -5,7 +5,7 @@ const Auth = () => {
     return (
         <div className="wrapper-auth">
             <header>
-                <img src="../Images/logo.png" className="wrapper-auth__header-logo" alt="лого" />
+                <img src="../Images/carddex_logo.png" className="wrapper-auth__header-logo" alt="" />
                 <div className="wrapper-auth__header-line"></div>
             </header>
             <main>
